@@ -143,6 +143,5 @@ Potential enhancements include:
 
 ## Author
 **Noor Hazem Ibrahim Seif**  
-Computer Science Student – AUS  
+Computer Science Student – American University of Sharjah  
 LinkedIn: https://www.linkedin.com/in/noor-seif-39babb328/
-
